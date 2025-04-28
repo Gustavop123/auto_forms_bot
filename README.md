@@ -1,9 +1,5 @@
 # Google Forms Auto-Filler Bot
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/preenchendo.gif" alt="Demonstração do Bot preenchendo formulário" width="600">
-</p>
-
 ---
 
 ## Sobre o Projeto
