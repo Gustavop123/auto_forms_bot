@@ -112,9 +112,7 @@ Finalizado!
 ## Estrutura do Projeto
 
 ```
-Google-Forms-AutoFiller-Bot/
-├── assets/
-│   └── preenchendo.gif
+auto_forms_bot/
 ├── preenche_formulario.py
 └── README.md
 ```
